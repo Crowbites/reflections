@@ -5,3 +5,7 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 I honestly have no idea. I'm here to learn this stuff not tell you why it exists.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Honestly I'm barely registering the why's at the moment. I'm sure I'll figure it out with further use but these explanations are confusering my tiny brain.
