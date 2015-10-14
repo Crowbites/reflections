@@ -13,3 +13,7 @@ Honestly I'm barely registering the why's at the moment. I'm sure I'll figure it
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 can keep separate changes separate. I'm sure there's research that says writing things down helps memory retention but I don't think this is exactly what the researchers had in mind.
+
+How do the diagrams help you visualize the branch structure?
+
+They don't, I don't understand them, and they're boring so I'm not really motivated to try and understand them.
