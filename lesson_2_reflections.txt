@@ -17,3 +17,4 @@ can keep separate changes separate. I'm sure there's research that says writing 
 How do the diagrams help you visualize the branch structure?
 
 They don't, I don't understand them, and they're boring so I'm not really motivated to try and understand them.
+OOOHHH that's the commit message. Lol
